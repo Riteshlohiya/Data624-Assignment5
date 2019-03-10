@@ -7,7 +7,7 @@ output: html_document
 
 #Data624 Assignment5
 
-#Chapter 7:
+#Chapter 7: 
 
 ```{r}
 suppressMessages(suppressWarnings(library(fpp2)))
